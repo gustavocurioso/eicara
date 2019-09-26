@@ -1,0 +1,31 @@
+body {
+    font-family: courier, times;
+    font-size: 40px;
+    background-color: #171717;
+    color: #4CB2FF;
+    text-align: center;
+}
+
+input[type="button"]{
+    border: none;
+    background-color: #171717;
+    color: #4CB2FF;
+    font-size: 40px;
+    font-family: courier, times;
+    outline: none;
+}
+
+input[type="button"]:hover {
+    background-color: #4CB2FF;
+    color: #171717;
+}
+
+a {
+    text-decoration: none;
+    color: #4CB2FF;
+}
+
+a:hover {
+    background-color: #4CB2FF;
+    color: #171717;
+}
